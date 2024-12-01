@@ -30,8 +30,9 @@ This program takes in a SOP PLA file as input and outputs a simplified SOP PLA f
 
 ```
 
-    Don't Cares: The primary issue is that the program removes "don't care" terms entirely, instead of marking them as such. As a result, the output may be incorrect when handling "don't care" conditions, particularly in larger term sets.
-    I was unable to implement the functionality in time after realizing this as well.
+Don't Cares: The primary issue is that the program removes "don't care" terms entirely, instead of marking them as such. 
+As a result, the output may be incorrect when handling "don't care" conditions, particularly in larger term sets.
+I was unable to implement the functionality in time after realizing this as well.
 
     Example:
     Input (with don't cares):
