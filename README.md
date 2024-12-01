@@ -53,7 +53,7 @@ Resources Used
 
 Lectures by Mike Borowczak at the University of Central Florida.
 
-Espresso Web (WASM version) - To compare my output against another tool's output.
+Espresso Web (WASM version) - To compare my output against another tool's output. https://nudelerde.github.io/Espresso-Wasm-Web/index.html
 
-Boolean Algebra Simplification - For checking boolean algebra logic and simplifications.
+Boolean Algebra Simplification - For checking boolean algebra logic and simplifications. https://www.boolean-algebra.com/
 
