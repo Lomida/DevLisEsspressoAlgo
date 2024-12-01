@@ -1,3 +1,5 @@
+--Written by Devon Lister originally 11/1/24
+--Last edited 11/30/24
 import Data.List (nub, delete, isPrefixOf)
 import Data.Maybe (isJust, fromJust)
 import System.IO
