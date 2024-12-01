@@ -40,7 +40,7 @@ This program takes in a SOP PLA file as input and outputs a simplified SOP PLA f
     .o 1            Should become ->  .o 1        However mine looks like  -> .o 1
     0111 1                            .p 1                                    .p 1
     0011 1                            0-11 1                                  011 1
-                                    .e                                      .e
+                                      .e                                      .e
 
 
 Below is a summary of the test cases, with all the ones that did fail did so because of the above labelled issue
