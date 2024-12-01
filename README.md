@@ -33,10 +33,10 @@ Known Issues
     0011 1                            0-11 1                                  011 1
                                     .e                                      .e
 
-Test Cases
 
-Below is a summary of the test cases, including which ones failed and their respective issues.
-Test Case	Passed?	Description
+Below is a summary of the test cases, with all the ones that did fail did so because of the above labelled issue
+
+Test Case	Passed?
 case1	✅	Does it simplify a 3-term SOP (Sum of Products)?
 case2	✅	Does it simplify a 6-term SOP?
 case3	❌	Does it simplify a 4-term SOP?
@@ -44,12 +44,12 @@ case4	❌	Does it simplify a 10-term SOP?
 case5	✅	Does it simplify a 6-term SOP?
 case6	❌	Does it simplify a 6-term SOP?
 case7	❌	Does it simplify case3 repeated 3x?
-Conclusion
-
 
 ```
 
-This project was challenging but rewarding. While my 2-level minimization algorithm doesn't work perfectly, I gained a solid understanding of the underlying concepts. With more time or possibly using a different programming language, I believe I could have improved the implementation. Regardless, this was a fun and interesting experience.
+Conclusion: 
+This project was challenging but rewarding. While my 2-level minimization algorithm doesn't work perfectly, I gained a solid understanding of the underlying concepts. 
+With more time or possibly using a different programming language, I believe I could have improved the implementation(do it correctly). Regardless, this was a fun and interesting experience.
 Resources Used
 
 Lectures by Mike Borowczak at the University of Central Florida.
