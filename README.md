@@ -52,6 +52,8 @@ This project was challenging but rewarding. While my 2-level minimization algori
 Resources Used
 
 Lectures by Mike Borowczak at the University of Central Florida.
+
 Espresso Web (WASM version) - To compare my output against another tool's output.
+
 Boolean Algebra Simplification - For checking boolean algebra logic and simplifications.
 
