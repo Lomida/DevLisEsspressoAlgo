@@ -18,10 +18,11 @@ To run the program, use the command:
 Note: The debug flag is intended for personal use and won't provide useful information for debugging outside my context.
 Program Overview
 
-This program takes in a PLA (Programmable Logic Array) file as input and outputs a simplified PLA file.
+This program takes in a PLA file as input and outputs a simplified PLA file.
 Known Issues
 
-    Don't Cares: The primary issue is that the program removes "don't care" terms entirely, instead of marking them as such. I was unable to implement the functionality in time. As a result, the output may be incorrect when handling "don't care" conditions, particularly in larger term sets.
+    Don't Cares: The primary issue is that the program removes "don't care" terms entirely, instead of marking them as such. As a result, the output may be incorrect when handling "don't care" conditions, particularly in larger term sets.
+    I was unable to implement the functionality in time after realizing this as well.
 
     Example:
     Input (with don't cares):
