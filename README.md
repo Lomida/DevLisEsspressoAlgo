@@ -21,14 +21,23 @@ This is especially annoying when doing larger sets of terms because removing mul
 I've created 7 test cases to show what it does correct and incorrect.
 
 | What cases failed? | What was the test case?               |
+
 |------------------------------------------------------------|
+
 | case1     ✅       | Does it simplify a 3 in 3 term SOP?   
+
 | case2     ✅       | Does it simplify a 3 in 6 term SOP?   
+
 | case3     ❌       | Does it simplify a 4 in 2 term SOP?   | It failed because it was unable to handle 2nd level don't cares removing them and then not including them in the output, see example at top above for issue
+
 | case4     ❌       | Does it simplify a 4 in 10 term SOP?  | ^ same as above
+
 | case5     ✅       | Does it simplify a 6 in 2 term SOP?
+
 | case6     ❌       | Does it simplify a 6 in 4 term SOP?   | ^ same as above
+
 | case7     ❌       | Does it simplify case3 repeated 3x    | ^ same as above, however it also adds in additional term which is also unpredicted, implies another issue is also happening
+
 |------------------------------------------------------------|
 
 Overall this was a difficult project that with more time and maybe a different language implementation could have gone better but I do not regret trying this out. This was very fun and intresting to do, while my code for a 2 level minimization algorithm doesn't work, I absolutely can do it by hand and grasp the concept. 
