@@ -45,10 +45,13 @@ case6	❌	Does it simplify a 6-term SOP?
 case7	❌	Does it simplify case3 repeated 3x?
 Conclusion
 
+
+```
+
 This project was challenging but rewarding. While my 2-level minimization algorithm doesn't work perfectly, I gained a solid understanding of the underlying concepts. With more time or possibly using a different programming language, I believe I could have improved the implementation. Regardless, this was a fun and interesting experience.
 Resources Used
 
-    Lectures by Mike Borowczak at the University of Central Florida.
-    Espresso Web (WASM version) - To compare my output against another tool's output.
-    Boolean Algebra Simplification - For checking boolean algebra logic and simplifications.
+Lectures by Mike Borowczak at the University of Central Florida.
+Espresso Web (WASM version) - To compare my output against another tool's output.
+Boolean Algebra Simplification - For checking boolean algebra logic and simplifications.
 
