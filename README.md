@@ -7,18 +7,21 @@ This project was programmed in Haskell as both a personal learning exercise and 
 
 
 ## Compilation and Running
-```bash
 To compile the program, I use **GHC** (Glasgow Haskell Compiler) with the following command:
+
+```bash
+
 
 
 ghc -o DLESP DevLisEspresso.hs
+```
 
 To run the program, use the command:
-
+```bash
 ./DLESP <input.pla> <output.pla> [optional: -d --debug flag]
-
-Note: The debug flag is intended for personal use and won't provide useful information for debugging outside my context.
 ```
+Note: The debug flag is intended for personal use and won't provide useful information for debugging outside my context.
+
 ## Program Overview
 
 This program takes in a PLA file as input and outputs a simplified PLA file.
