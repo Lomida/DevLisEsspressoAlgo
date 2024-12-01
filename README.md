@@ -24,7 +24,7 @@ Note: The debug flag is intended for personal use and won't provide useful infor
 
 ## Program Overview
 
-This program takes in a PLA file as input and outputs a simplified PLA file.
+This program takes in a SOP PLA file as input and outputs a simplified SOP PLA file.
 
 ## Known Issues
 
