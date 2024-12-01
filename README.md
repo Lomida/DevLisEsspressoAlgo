@@ -11,9 +11,13 @@ Then to run it I use, the optional debug flag isn't meant for debugging outside 
 This program takes in a PLA file and outputs a PLA file
 There are errors, the main issue is don't cares because my code removes them entirely instead of labelling them as such. I can't implement the functionality in time.
 For example: 
+
 .i 4                              .i 4                                    .i 3
+
 .o 1            Should become ->  .o 1        However mine looks like  -> .o 1
+
 0111 1                            .p 1                                    .p 1
+
 0011 1                            0-11 1                                  011 1
                                   .e                                      .e
 
