@@ -1,7 +1,7 @@
 # DevLisEspressoAlgo
 **CAD VLSI Sec:0001**  
 **Project #1** by Devon Lister
-
+```bash
 This project was programmed in Haskell as both a personal learning exercise and a challenge to tackle an uncomfortable task while learning something new (similar to fixing a car while driving).
 
 ## Compilation and Running
