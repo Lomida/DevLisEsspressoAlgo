@@ -8,7 +8,7 @@ This project was programmed in Haskell as both a personal learning exercise and 
 
 To compile the program, I use **GHC** (Glasgow Haskell Compiler) with the following command:
 
-```bash
+
 ghc -o DLESP DevLisEspresso.hs
 
 To run the program, use the command:
