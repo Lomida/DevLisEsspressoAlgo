@@ -44,10 +44,10 @@ I was unable to implement the functionality in time after realizing this as well
                                       .e                                      .e
 
 
-Below is a summary of the test cases, with all the ones that did fail did so because of the above labelled issue
+Below is a summary of the test cases. As a note, with don't cares fixed, all cases would pass!
 
 Test Case	Passed?
-case1	✅	Does it simplify a 3-term SOP (Sum of Products)?
+case1	✅	Does it simplify a 3-term SOP?
 case2	✅	Does it simplify a 6-term SOP?
 case3	❌	Does it simplify a 4-term SOP?
 case4	❌	Does it simplify a 10-term SOP?
