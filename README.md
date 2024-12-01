@@ -8,7 +8,7 @@ This project was programmed in Haskell as both a personal learning exercise and 
 
 To compile the program, I use **GHC** (Glasgow Haskell Compiler) with the following command:
 
-
+```bash
 ghc -o DLESP DevLisEspresso.hs
 
 To run the program, use the command:
@@ -48,6 +48,7 @@ Conclusion
 This project was challenging but rewarding. While my 2-level minimization algorithm doesn't work perfectly, I gained a solid understanding of the underlying concepts. With more time or possibly using a different programming language, I believe I could have improved the implementation. Regardless, this was a fun and interesting experience.
 Resources Used
 
-Lectures by Mike Borowczak at the University of Central Florida.
-Espresso Web (WASM version) - To compare my output against another tool's output.
-Boolean Algebra Simplification - For checking boolean algebra logic and simplifications.
+    Lectures by Mike Borowczak at the University of Central Florida.
+    Espresso Web (WASM version) - To compare my output against another tool's output.
+    Boolean Algebra Simplification - For checking boolean algebra logic and simplifications.
+
